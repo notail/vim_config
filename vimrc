@@ -18,7 +18,7 @@ syntax enable
 
 " set background=dark
 " colorscheme solarized
-colorscheme cobalt
+colorscheme itg_flat
 
 set autowrite           " 自动写，转入shell或使用：n编辑其他文件时，当前的缓冲区被写入
 " set flash             " 在出错处闪烁但不呜叫(缺省)
